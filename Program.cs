@@ -11,6 +11,12 @@ namespace MyApp
             animal1.Traits = "Friendly";
             animal1.Teeth = "Sharp";
             animal1.WhoAmI();
+            Rectangle r = new Rectangle(12, 3);
+            r.CalculatePerimeter();
+
+            Rectangle r2 = new Rectangle();
+            Rectangle r3= new Rectangle( "slkfsdl","slkfsdl" );
+            
         }
     }
 
