@@ -1,0 +1,15 @@
+C:\Users\FOR CLONE\Desktop\densing-ethel\bin\Debug\net7.0\Densing, Ethel.exe
+C:\Users\FOR CLONE\Desktop\densing-ethel\bin\Debug\net7.0\Densing, Ethel.deps.json
+C:\Users\FOR CLONE\Desktop\densing-ethel\bin\Debug\net7.0\Densing, Ethel.runtimeconfig.json
+C:\Users\FOR CLONE\Desktop\densing-ethel\bin\Debug\net7.0\Densing, Ethel.dll
+C:\Users\FOR CLONE\Desktop\densing-ethel\bin\Debug\net7.0\Densing, Ethel.pdb
+C:\Users\FOR CLONE\Desktop\densing-ethel\obj\Debug\net7.0\Densing, Ethel.csproj.AssemblyReference.cache
+C:\Users\FOR CLONE\Desktop\densing-ethel\obj\Debug\net7.0\Densing, Ethel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOR CLONE\Desktop\densing-ethel\obj\Debug\net7.0\Densing, Ethel.AssemblyInfoInputs.cache
+C:\Users\FOR CLONE\Desktop\densing-ethel\obj\Debug\net7.0\Densing, Ethel.AssemblyInfo.cs
+C:\Users\FOR CLONE\Desktop\densing-ethel\obj\Debug\net7.0\Densing, Ethel.csproj.CoreCompileInputs.cache
+C:\Users\FOR CLONE\Desktop\densing-ethel\obj\Debug\net7.0\Densing, Ethel.dll
+C:\Users\FOR CLONE\Desktop\densing-ethel\obj\Debug\net7.0\refint\Densing, Ethel.dll
+C:\Users\FOR CLONE\Desktop\densing-ethel\obj\Debug\net7.0\Densing, Ethel.pdb
+C:\Users\FOR CLONE\Desktop\densing-ethel\obj\Debug\net7.0\Densing, Ethel.genruntimeconfig.cache
+C:\Users\FOR CLONE\Desktop\densing-ethel\obj\Debug\net7.0\ref\Densing, Ethel.dll

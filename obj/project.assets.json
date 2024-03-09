@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FOR CLONE\\Documents\\densing-ethel\\densing-ethel.csproj",
-      "projectName": "densing-ethel",
-      "projectPath": "C:\\Users\\FOR CLONE\\Documents\\densing-ethel\\densing-ethel.csproj",
+      "projectUniqueName": "C:\\Users\\FOR CLONE\\Desktop\\densing-ethel\\Densing, Ethel.csproj",
+      "projectName": "Densing, Ethel",
+      "projectPath": "C:\\Users\\FOR CLONE\\Desktop\\densing-ethel\\Densing, Ethel.csproj",
       "packagesPath": "C:\\Users\\FOR CLONE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FOR CLONE\\Documents\\densing-ethel\\obj\\",
+      "outputPath": "C:\\Users\\FOR CLONE\\Desktop\\densing-ethel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
